@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869769734957",
+    "project_id": "todo-otp-e7689",
+    "storage_bucket": "todo-otp-e7689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869769734957:android:a51cfbbcafb757f9c281a4",
+        "android_client_info": {
+          "package_name": "com.example.todo_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869769734957-c7pj5thta49m2iuqin81frbisqpshr65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPWsuie_JZwXl3D7Sd2doSdU4cz6F9ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869769734957-c7pj5thta49m2iuqin81frbisqpshr65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
